@@ -106,7 +106,7 @@ the response will be the same for both challenges. The attacker can therefore
 test a single guess for the starting byte with two sessions, and learn that byte
 after at most 512 sessions. See [1], [2].
 
-best wishes,
+best wishes, \
 Nimrod Aviram, Benjamin Dowling, Ilan Komargodski, Kenny Paterson, Eyal Ronen, Eylon Yogev
 
 References: \
